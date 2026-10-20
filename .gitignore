@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.history/
+backend/uploads/*
+!backend/uploads/.gitkeep
+Python-3.11.15.tar.xz
